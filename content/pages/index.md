@@ -6,7 +6,7 @@ sections:
     subtitle: REVIEW SECURE FILE BELOW
     actions:
       - label: Learn More
-        url: /features
+        url: 'https://www.google.com/'
         style: primary
       - label: Contact Us
         url: /contact
