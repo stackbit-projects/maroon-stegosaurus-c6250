@@ -17,7 +17,6 @@ sections:
     image_position: right
     has_background: true
   - type: features_section
-    title: Features
     features:
       - title: Feature 2
         content: >-
