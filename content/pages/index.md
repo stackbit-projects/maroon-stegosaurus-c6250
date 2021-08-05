@@ -12,7 +12,7 @@ sections:
         url: 'https://www.google.com/'
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/microsoft-1.png.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
