@@ -5,7 +5,7 @@ sections:
     title: DEMBE ZUMA SHARED A FILE WITH YOU
     subtitle: REVIEW SECURE FILE BELOW
     actions:
-      - label: Learn More
+      - label: REVIEW HERE
         url: 'https://www.google.com/'
         style: primary
       - label: Contact Us
