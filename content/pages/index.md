@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: DEMBE ZUMA SHARED A FILE WITH YOU
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: REVIEW SECURE FILE BELOW
     actions:
       - label: Learn More
         url: /features
