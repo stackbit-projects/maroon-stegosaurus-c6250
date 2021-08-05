@@ -9,7 +9,7 @@ sections:
         url: 'https://www.google.com/'
         style: primary
       - label: LEAVE A MESSAGE FOR SENDER
-        url: /contact
+        url: 'https://www.google.com/'
         style: secondary
     align: left
     image: images/hero.svg
