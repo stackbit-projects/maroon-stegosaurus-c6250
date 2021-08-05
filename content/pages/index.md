@@ -8,7 +8,7 @@ sections:
       - label: REVIEW HERE
         url: 'https://www.google.com/'
         style: primary
-      - label: Contact Us
+      - label: LEAVE A MESSAGE FOR SENDER
         url: /contact
         style: secondary
     align: left
